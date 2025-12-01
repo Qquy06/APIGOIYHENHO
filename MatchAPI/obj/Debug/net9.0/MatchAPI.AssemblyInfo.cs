@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatchAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a45f7e5e548c61012ab1e68144786e277b5d82c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e64d4bfc3de91554a6ea21e5190cb7bf4e05e130")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatchAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatchAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
